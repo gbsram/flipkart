@@ -2,7 +2,7 @@ main ()
 {
 public staic void main()
 {
-a=10
+a=22
  print.output.println
  print.output
 }
